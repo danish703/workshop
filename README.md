@@ -1,26 +1,27 @@
-# Admission Open for New Class
+# Admission Open for New Class at Rs.15000 (discounted price)
 <p align="center">
   <img src="https://i.ibb.co/m4LC5Kb/full-stack-iitn-fw.png" alt="full-stack-iitn-fw" border="0" />
 </p>
 ## What You Will Learn
 What you will learn on Python Django Training at IIT Nepal?
-✅ Introduction to Python 
-✅ Operators and Control Structures
-✅ Function an OOP
-✅ File Handling and Exception Handling
-✅ Django Installation and View Layer
-✅ Django ORM concept
-✅ Django Model Layer
-✅ Django Form and Form Sets
-✅ Django Template
-✅ Django Session and Access Control
-✅ Generic Views
-✅ Generating PDF and CVS file
-✅Transaction and Aggregation
-✅ Security Middleware
-✅ Performance and optimization overview
-✅ Django Email Functionality
-✅ Writing and running Testcases
-✅ Unit Testing with Django
-✅ Django and REST API
+✅ Html,css and Bootstrap<br/>
+✅ Introduction to Python <br/> 
+✅ Operators and Control Structures<br/>
+✅ Function an OOP<br/>
+✅ File Handling and Exception Handling<br/>
+✅ Django Installation and View Layer<br/>
+✅ Django ORM concept<br/>
+✅ Django Model Layer<br/>
+✅ Django Form and Form Sets<br/>
+✅ Django Template<br/>
+✅ Django Session and Access Control<br/>
+✅ Generic Views<br/>
+✅ Generating PDF and CVS file<br/>
+✅Transaction and Aggregation<br/>
+✅ Security Middleware<br/>
+✅ Performance and optimization overview<br/>
+✅ Django Email Functionality<br/>
+✅ Writing and running Testcases<br/>
+✅ Unit Testing with Django<br/>
+✅ Django and REST API<br/>
 
