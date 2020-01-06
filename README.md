@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://i.ibb.co/m4LC5Kb/full-stack-iitn-fw.png" alt="full-stack-iitn-fw" border="0" />
 </p>
-# What You Will Learn
+<h1> What You Will Learn<h1>
 What you will learn on Python Django Training at IIT Nepal?<br/>
 ✅ Html,css and Bootstrap<br/>
 ✅ Introduction to Python <br/> 
