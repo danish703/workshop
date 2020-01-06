@@ -1,2 +1,3 @@
 # workshop
-![alt text]https://ibb.co/2dD73rW)
+![alt text]https://i.ibb.co/m4LC5Kb/full-stack-iitn-fw.png)
+
