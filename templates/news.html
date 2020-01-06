@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<h3>News List</h3>
+
+{% for a in x %}
+    <h3>{{a.title}}</h3>
+<p>{{a.description}}</p>
+<img src="{{MEDIA_URL}}{{a.image.url}}" style="width:100px;height:auto;">
+<a href="{% url 'edit' a.id %}">Edit</a> | <a href="{% url 'delete' a.id %}">delete</a>
+<hr/>
+{% endfor %}
+</body>
+</html>

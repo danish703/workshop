@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+{% load staticfiles %}
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="stylesheet" href="{% static 'css/style.css' %}">
+</head>
+<body>
+<a href="{% url 'list' %}">news list</a>
+<a href="{% url 'signout' %}">signout</a>
+
+ <ul>
+     {% for x in a %}
+     <li>
+         {{x.id}}
+         {{x.title}}
+         <p>{{x.taglist}}</p>
+     </li>
+     {% endfor %}
+ </ul>
+<form method="POST" enctype="multipart/form-data">
+{{form.as_p}}
+  {% csrf_token %}
+<input type="submit">
+
+</form>
+</body>
+</html>
+
